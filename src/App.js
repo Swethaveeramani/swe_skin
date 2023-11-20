@@ -24,6 +24,8 @@ import ForHim from './components/ForHim';
 import MobileNav from './components/MobileNav';
 import LoginPage from './components/LoginPage';
 import SignupPage from './components/SignupPage';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
 
